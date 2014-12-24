@@ -36,3 +36,6 @@ There are 2 provided examples, both need to be ran as root:
   Demo video: 
 
   [![random.sh](https://i.ytimg.com/s_vi/kklLTXt_osQ/mqdefault.jpg?sqp=CKj26qQF&rs=AOn4CLCxhIQpT2dPrV1b4_9aSrDK8HqeOw)](https://www.youtube.com/watch?v=kklLTXt_osQ&index=2&list=UUBJp0nTYCg9agz6c7f_1d8A)
+
+<h2>Credits:</h2>
+Inspired by [@nmilford/stormLauncher](https://github.com/nmilford/stormLauncher)
