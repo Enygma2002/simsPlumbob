@@ -26,7 +26,8 @@ There are 2 provided examples, both need to be ran as root:
 
   Demo video: 
 
-  [![police.sh](https://i.ytimg.com/s_vi/LMEzIR6nP1E/mqdefault.jpg?sqp=CKj26qQF&rs=AOn4CLDa_gTfRVtvQdCETgWP0FZQUY4WhQ)](https://www.youtube.com/watch?v=LMEzIR6nP1E&index=1&list=UUBJp0nTYCg9agz6c7f_1d8A)
+  [![police.sh](https://img.youtube.com/vi/LMEzIR6nP1E/hqdefault.jpg)](https://www.youtube.com/watch?v=LMEzIR6nP1E&index=1&list=UUBJp0nTYCg9agz6c7f_1d8A)
+
 * **random.sh** - flashes random colors at random fractions of a second intervals
 
   ```
@@ -35,7 +36,7 @@ There are 2 provided examples, both need to be ran as root:
 
   Demo video: 
 
-  [![random.sh](https://i.ytimg.com/s_vi/kklLTXt_osQ/mqdefault.jpg?sqp=CKj26qQF&rs=AOn4CLCxhIQpT2dPrV1b4_9aSrDK8HqeOw)](https://www.youtube.com/watch?v=kklLTXt_osQ&index=2&list=UUBJp0nTYCg9agz6c7f_1d8A)
+  [![random.sh](http://img.youtube.com/vi/kklLTXt_osQ/hqdefault.jpg)](https://www.youtube.com/watch?v=kklLTXt_osQ&index=2&list=UUBJp0nTYCg9agz6c7f_1d8A)
 
 <h2>Credits:</h2>
 Inspired by [@nmilford/stormLauncher](https://github.com/nmilford/stormLauncher)
